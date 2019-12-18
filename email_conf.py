@@ -1,6 +1,0 @@
-MAILGUN_API_KEY = 'af306cf4cb2d5586f73639d5c39e43e7-f8b3d330-293a2b8a' 
-SANDBOX_URL= 'https://api.mailgun.net/v3/sandboxad9602b8053541a0aa064935edc74877.mailgun.org' 
-SENDER_EMAIL = 'test@sandboxad9602b8053541a0aa064935edc74877.mailgun.org'
-RECIPIENT_EMAIL = 'dokaniaharsh@gmail.com'
-API_KEY = 'b19b11ae-3124-4686-ac2b-8d554b6d7870'
-DEVICE_ID = 'BOLT294229' 
